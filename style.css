@@ -872,3 +872,20 @@ i {
     overflow: hidden;
     height: 100%;
 }
+
+
+
+
+
+
+.footer .detail ul li {
+    color: black; 
+    transition: color 0.3s ease;
+    font-size: 15px;
+}
+
+
+.footer .detail ul li:hover {
+    color: #007bff; 
+    cursor: pointer; 
+}
