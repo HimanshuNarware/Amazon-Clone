@@ -872,3 +872,13 @@ i {
     overflow: hidden;
     height: 100%;
 }
+
+.footer ul li {
+    color:rgb(204, 202, 220);
+    transition: color 0.2s ease;
+}
+
+.footer ul li:hover {
+    color:#2E97A7;
+    cursor:default;
+}
